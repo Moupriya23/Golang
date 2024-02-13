@@ -1,10 +1,6 @@
 package main
-import (
-	"fmt"
-)
-
+import ("fmt")
 func main() {
-	
+	//for print anything
 	fmt.Println("Hi Golang")
-
 }
